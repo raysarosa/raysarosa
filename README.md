@@ -1,4 +1,9 @@
-### Hi there 😀
+### 👋 Hi there, I am Raysa Rosa 👩‍💻
 
-I'm Raysa (brazilian and portuguese) and I'm currently pursuing a postgraduate degree in __Enterprise Data Science & Analytics__ at Nova IMS, Lisbon. 
-Transitioning from engineering, I'm discovering a new passion in data science and enjoying every moment of it. So far, I’ve worked on exciting projects involving Python, Machine Learning, SQL, and NoSQL. 🚀📊
+I am currently pursuing a postgraduate degree in __Enterprise Data Science & Analytics__ at Nova IMS, Lisbon.
+Coming from an engineering background, I am excited about the journey of exploring data science and enjoying every moment of discovery. 🚀📊
+
+### Skills and Experience (in progress) 💻
+- Python
+- Machine Learning 
+- SQL and NoSQL (Microsoft Azure)
