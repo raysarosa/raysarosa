@@ -6,7 +6,8 @@ Coming from an engineering background, I am excited about the journey of explori
 ### Skills and Experience (in progress) 💻
 - Python
 - Machine Learning 
-- SQL and NoSQL (Microsoft Azure)
+- SQL
+- NoSQL (Microsoft Azure)
 
 ### Projects
 - Python: understanding Python basics and K-Means construction.
