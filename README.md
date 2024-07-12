@@ -5,7 +5,8 @@ Coming from an engineering background, I am excited about the journey of explori
 
 ### Skills and Experience (in progress) 💻
 - Python
-- Machine Learning 
+- Machine Learning
+- Statistics 
 - SQL
 - NoSQL (Microsoft Azure)
 
@@ -14,6 +15,7 @@ Coming from an engineering background, I am excited about the journey of explori
 - Python: exploring Lisbon Airbnb listings through Python, employing data-driven analysis to define host, prices, and location clusters.
 - Machine Learning: clustering project on customer engagement, spending behaviors, and demographic data.
 - Machine Learning: predicting customer purchases for QuestDice's second product using survey data.
+- Statistics: Does Remote Work have an Impact in Mental Health?
 - SQL Project: extending the database schema to support an online auction.
 - NoSQL Challenge 1: working with Cosmos DB Table API via Azure portal and Python SDK.
 - NoSQL Challenge 2: introduction to MongoDB API via Azure portal and MongoDB shell, covering data management, loading, insertion, and querying in Cosmos DB.
