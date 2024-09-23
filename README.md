@@ -19,4 +19,5 @@ Coming from an engineering background, I am excited about the journey of explori
 - SQL Project: extending the database schema to support an online auction.
 - NoSQL Challenge 1: working with Cosmos DB Table API via Azure portal and Python SDK.
 - NoSQL Challenge 2: introduction to MongoDB API via Azure portal and MongoDB shell, covering data management, loading, insertion, and querying in Cosmos DB.
+- NoSQL Challenge 3: worked with Cassandra API, creating and managing data through Cosmos DB and learning advanced NoSQL operations.
 - _(Note: My repositories are private as they include university projects. If you are a recruiter and would like to access them, please contact me privately to request access.)_
