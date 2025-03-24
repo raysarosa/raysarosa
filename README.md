@@ -1,23 +1,49 @@
-### 👋 Hi there, I am Raysa Rosa 👩‍💻
+👋 **Hi there, I'm Raysa Rocha!** 👩‍💻
 
-I am currently pursuing a postgraduate degree in __Enterprise Data Science & Analytics__ at Nova IMS, Lisbon.
-Coming from an engineering background, I am excited about the journey of exploring data science and enjoying every moment of discovery. 🚀📊
+I recently completed my **Postgraduate Degree in Enterprise Data Science & Analytics** at **Nova IMS, Lisbon**. Coming from an engineering background, I have enthusiastically transitioned into Data Science & Analytics, developing expertise in Machine Learning, Deep Learning, Data Visualization and Data Engineering. I enjoy uncovering actionable insights and continuously enhancing my data skills. 🚀📊
 
-### Skills and Experience (in progress) 💻
-- Python
-- Machine Learning
-- Statistics 
-- SQL
-- NoSQL (Microsoft Azure)
+### **Technical Skills** 💻
+- **Programming & Machine Learning:** Python (pandas, numpy, scikit-learn, TensorFlow/Keras)
+- **Data Analysis & Visualization:** Power BI, Looker, Matplotlib, Seaborn
+- **Databases:** SQL
+- **Statistics & Analytics:** Regression, statistical analysis, exploratory data analysis
+- **Cloud Platforms:** AWS, Azure (basic familiarity)
 
-### Projects
-- Python: understanding Python basics and K-Means construction.
-- Python: exploring Lisbon Airbnb listings through Python, employing data-driven analysis to define host, prices, and location clusters.
-- Machine Learning: clustering project on customer engagement, spending behaviors, and demographic data.
-- Machine Learning: predicting customer purchases for QuestDice's second product using survey data.
-- Statistics: Does Remote Work have an Impact in Mental Health?
-- SQL Project: extending the database schema to support an online auction.
-- NoSQL Challenge 1: working with Cosmos DB Table API via Azure portal and Python SDK.
-- NoSQL Challenge 2: introduction to MongoDB API via Azure portal and MongoDB shell, covering data management, loading, insertion, and querying in Cosmos DB.
-- NoSQL Challenge 3: worked with Cassandra API, creating and managing data through Cosmos DB and learning advanced NoSQL operations.
-- _(Note: My repositories are private as they include university projects. If you are a recruiter and would like to access them, please contact me privately to request access.)_
+### **Projects Developed** 📂
+
+#### **Individual Project**
+- **Python Basics and K-Means Construction**
+  - Learned foundational Python skills and implemented K-Means clustering algorithm for data segmentation.
+
+#### **Group Projects**
+- **Deep Learning – House Room Classifier**  
+  - Developed deep learning models (CNN, MobileNetV2, ResNet50, ResNet101) to classify room images, achieving 87% accuracy with balanced F1-score.
+
+- **Machine Learning – Employee Attrition Prediction**  
+  - Built predictive models (Logistic Regression, Random Forest) to identify key factors affecting employee retention.
+
+- **Machine Learning – Customer Purchase Prediction**  
+  - Created predictive models (Random Forest, Gradient Boosting, SVC, Neural Networks) to forecast customer buying behavior from survey data.
+
+- **Machine Learning – Customer Segmentation (Clustering)**  
+  - Implemented K-Means clustering to segment customers by demographics, spending patterns, and engagement.
+
+- **Python & Clustering – Airbnb Listings Analysis**  
+  - Performed exploratory data analysis, identifying clusters of Airbnb listings based on pricing and location.
+
+- **Statistics – Impact of Remote Work on Mental Health**  
+  - Conducted statistical analyses on survey data to evaluate remote work's impact on mental health.
+
+- **SQL – Online Auction System for Inventory Management**  
+  - Developed and optimized database schema, queries, and triggers for managing online auctions efficiently.
+
+- **Big Data Foundations – MovieLens Dataset Analysis**  
+  - Analyzed a large-scale movie ratings dataset (32M+ ratings) using Big Data tools.
+
+- **Power BI – MovieLens Dataset Analysis**  
+  - Designed interactive Power BI dashboards to effectively visualize and analyze user preferences and trends.
+
+- **NoSQL Challenges (Azure)**  
+  - Managed data using Cosmos DB Table API, MongoDB, and Cassandra.
+
+All my project repositories are now publicly available. Feel free to explore my GitHub portfolio and connect if you'd like to collaborate or discuss further!
