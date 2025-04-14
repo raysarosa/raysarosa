@@ -14,6 +14,11 @@ I recently completed my **Postgraduate Degree in Enterprise Data Science & Analy
 #### **Individual Project**
 - **Python Basics and K-Means Construction**
   - Learned foundational Python skills and implemented K-Means clustering algorithm for data segmentation.
+ 
+- **BigQuery SQL Portfolio – Stack Overflow Dataset**
+  - Built a complete SQL project from scratch using Google BigQuery and the Stack Overflow public dataset.
+  - Practiced real-world querying techniques including filtering, aggregation, JOINs, CTEs, and window functions.
+  - Organized the project into structured .sql files (Basic, Intermediate, Advanced) and documented datasets used.
 
 #### **Group Projects**
 - **Deep Learning – House Room Classifier**  
