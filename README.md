@@ -17,13 +17,9 @@ I recently completed my **Postgraduate Degree in Enterprise Data Science & Analy
  
 - **BigQuery SQL Portfolio – Stack Overflow Dataset**
   - Built a complete SQL project from scratch using Google BigQuery and the Stack Overflow public dataset.
-  - Practiced real-world querying techniques including filtering, aggregation, JOINs, CTEs, and window functions.
-  - Organized the project into structured .sql files (Basic, Intermediate, Advanced) and documented datasets used.
  
 - **BigQuery SQL Portfolio – EPA Greenhouse Gas Emissions**
   - Analyzed facility-level GHG emissions using public environmental data from the U.S. EPA (2023).
-  - Applied advanced SQL techniques such as `ROW_NUMBER`, `PERCENT_RANK`, `CASE`, cross joins, subqueries and data unnesting.
-  - Explored emissions by facility, state, industry and parent company to reveal national insights.
 
 #### **Group Projects**
 - **Deep Learning – House Room Classifier**  
