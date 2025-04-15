@@ -52,4 +52,4 @@ I recently completed my **Postgraduate Degree in Enterprise Data Science & Analy
 - **NoSQL Challenges (Azure)**  
   - Managed data using Cosmos DB Table API, MongoDB, and Cassandra.
 
-All my project repositories are now publicly available. Feel free to explore my GitHub portfolio and connect if you'd like to collaborate or discuss further!
+Feel free to explore my GitHub portfolio and connect if you'd like to collaborate or discuss further!
