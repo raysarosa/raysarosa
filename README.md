@@ -21,10 +21,13 @@ I recently completed my **Postgraduate Degree in Enterprise Data Science & Analy
 - **BigQuery SQL Portfolio – EPA Greenhouse Gas Emissions**
   - Analyzed facility-level GHG emissions using public environmental data from the U.S. EPA (2023).
  
-- **Power BI – User, Purchase & Support Dashboard *(PT-BR)* 🎯**  
+- **Power BI – User, Purchase & Support Dashboard *(PT-BR)***  
   Developed as part of a Power BI course, this dashboard integrates Google Sheets data to analyze user registrations, purchase trends, and customer support tickets.  
   It features star schema modeling, DAX measures, Power Query transformations, and KPIs like NPS and recurring purchases. 
   > ⚠️ *Dashboard and documentation are in Portuguese.*
+
+- **Power BI – Financial Transactions Dashboard**  
+  Visual analysis of 475K+ transactions across Brazilian states, with interactive income/expense maps, transaction type breakdown (Pix vs. No_Pix), and customer insights.  
 
 #### **Group Projects**
 - **Deep Learning – House Room Classifier**  
