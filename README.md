@@ -14,7 +14,7 @@ I recently completed my **Postgraduate Degree in Enterprise Data Science & Analy
 #### **Individual Project**
 - **ETL Bitcoin Pipeline + Streamlit Dashboard**
   - Designed and implemented a complete ETL pipeline that extracts real-time Bitcoin spot prices from the Coinbase API, transforms the data, loads it into a PostgreSQL database and visualizes it with a live Streamlit dashboard featuring automatic refresh and price variation tracking.
-  - 
+ 
 - **Python Basics and K-Means Construction**
   - Learned foundational Python skills and implemented K-Means clustering algorithm for data segmentation.
  
