@@ -1,13 +1,16 @@
 👋 **Hi there, I'm Raysa Rocha!** 👩‍💻
 
-I recently completed my **Postgraduate Degree in Enterprise Data Science & Analytics** at **Nova IMS, Lisbon**. Coming from an engineering background, I have enthusiastically transitioned into Data Science & Analytics, developing expertise in Machine Learning, Deep Learning, Data Visualization and Data Engineering. I enjoy uncovering actionable insights and continuously enhancing my data skills. 🚀📊
+I hold a **Postgraduate Degree in Enterprise Data Science & Analytics** from **NOVA IMS, Lisbon**, with an engineering background that I have successfully leveraged to transition into **Data Analytics Engineering**. Currently, I am deepening my knowledge through the **EBA Analyst Program**, expanding my practical skills in analytics and modern data tools. I’m passionate about solving real-world problems through data and continuous learning. 🚀📊
+
 
 ### **Technical Skills** 💻
-- **Programming & Machine Learning:** Python (pandas, numpy, scikit-learn, TensorFlow/Keras)
-- **Data Analysis & Visualization:** Power BI, Looker, Matplotlib, Seaborn
-- **Databases:** SQL
-- **Statistics & Analytics:** Regression, statistical analysis, exploratory data analysis
-- **Cloud Platforms:** AWS, Azure (basic familiarity)
+
+- **Programming & Machine Learning:** Python (Pandas, NumPy, Scikit-learn, TensorFlow/Keras), model development, feature engineering, clustering, classification
+- **Data Analysis & Visualization:** Power BI, Looker, Matplotlib, Seaborn, dashboard design, data storytelling
+- **Databases & Querying:** SQL (BigQuery, SQL Server, Snowflake), query optimization, data extraction, data validation
+- **ETL & Data Pipelines:** Design and development of ETL/ELT workflows using SQL and Python, data transformation, batch processing
+- **Statistics & Analytics:** Descriptive and inferential statistics, regression analysis, hypothesis testing, EDA
+- **Cloud & Tools:** Google Cloud Platform, AWS, Azure (basic), Git/GitHub, Google Colab/Jupyter Notebook
 
 ### **Projects Developed** 📂
 
