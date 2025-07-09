@@ -12,14 +12,16 @@ I recently completed my **Postgraduate Degree in Enterprise Data Science & Analy
 ### **Projects Developed** 📂
 
 #### **Individual Project**
+- **EcoTrips SQL Analytics & Dashboard**  
+  A complete end-to-end SQL project delivered for an eco-tourism company.  
+  Answered **9 key business questions** using BigQuery, covering revenue trends, customer behavior, sustainability adoption, repeat rates and operator performance.  
+  *Power BI dashboard in progress.*
+
 - **ETL Bitcoin Pipeline + Streamlit Dashboard**
   - Designed and implemented a complete ETL pipeline that extracts real-time Bitcoin spot prices from the Coinbase API, transforms the data, loads it into a PostgreSQL database and visualizes it with a live Streamlit dashboard featuring automatic refresh and price variation tracking.
  
 - **Python Basics and K-Means Construction**
   - Learned foundational Python skills and implemented K-Means clustering algorithm for data segmentation.
- 
-- **BigQuery SQL Portfolio – Stack Overflow Dataset**
-  - Built a complete SQL project from scratch using Google BigQuery and the Stack Overflow public dataset.
  
 - **BigQuery SQL Portfolio – EPA Greenhouse Gas Emissions**
   - Analyzed facility-level GHG emissions using public environmental data from the U.S. EPA (2023).
