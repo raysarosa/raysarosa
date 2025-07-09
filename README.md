@@ -12,7 +12,7 @@ I recently completed my **Postgraduate Degree in Enterprise Data Science & Analy
 ### **Projects Developed** 📂
 
 #### **Individual Project**
-- **EcoTrips SQL Analytics & Dashboard**  
+- **Eco-Tourism SQL Analytics & Dashboard**  
   A complete end-to-end SQL project delivered for an eco-tourism company.  
   Answered **9 key business questions** using BigQuery, covering revenue trends, customer behavior, sustainability adoption, repeat rates and operator performance.  
   *Power BI dashboard in progress.*
