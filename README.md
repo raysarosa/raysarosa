@@ -18,7 +18,7 @@
 
 ### 🤖 Machine Learning & Deep Learning
 
-- 🏠 **[House Room Classifier for ProprHome]([link](https://github.com/raysarosa/house_room_classifier))** – CNN models (MobileNetV2, ResNet50, ResNet101) for real estate image classification | **87% accuracy**
+- 🏠 **[House Room Classifier for ProprHome]([https://github.com/raysarosa/house_room_classifier])** – CNN models (MobileNetV2, ResNet50, ResNet101) for real estate image classification | **87% accuracy**
 - 🌿 **[Plant Species Recognition]([link](https://github.com/raysarosa/plant-recognition))** – ResNet50-based classifier for 14 plant species | **95% accuracy**
 - 🛒 **[Customer Purchase Prediction]([link](https://github.com/raysarosa/questdice-customer-purchase-prediction))** – Ensemble models with hyperparameter tuning
 - 👥 **[Customer Segmentation (K-Means)]([link](https://github.com/raysarosa/Machine-Learning))** – Clustering analysis based on demographics and spending
