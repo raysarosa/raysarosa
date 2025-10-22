@@ -1,71 +1,63 @@
-👋 **Hi there, I'm Raysa Rocha!** 👩‍💻
+# 👋 Hi, I'm Raysa Rocha!
 
-I hold a **Postgraduate Degree in Enterprise Data Science & Analytics** from **NOVA IMS, Lisbon**, with an engineering background that I have successfully leveraged to transition into **Data Analytics Engineering**. Currently, I am deepening my knowledge through the **EBA Analyst Program**, expanding my practical skills in analytics and modern data tools. I’m passionate about solving real-world problems through data and continuous learning. 🚀📊
+**Data Scientist & Analyst** with an Engineering background and a Postgraduate Degree in Enterprise Data Science & Analytics from NOVA IMS. Currently working as a Data Science Intern at VanaciPrime and expanding my skills through the EBA Analyst Program. Passionate about solving real-world problems through machine learning, data pipelines, and actionable insights. 🚀
 
+---
 
-### **Technical Skills** 💻
+## 💻 Technical Skills
 
-- **Programming & Machine Learning:** Python (Pandas, NumPy, Scikit-learn, TensorFlow/Keras), model development, feature engineering, clustering, classification
-- **Data Analysis & Visualization:** Power BI, Looker, Matplotlib, Seaborn, dashboard design, data storytelling
-- **Databases & Querying:** SQL (BigQuery, SQL Server, Snowflake), query optimization, data extraction, data validation
-- **ETL & Data Pipelines:** Design and development of ETL/ELT workflows using SQL and Python, data transformation, batch processing
-- **Statistics & Analytics:** Descriptive and inferential statistics, regression analysis, hypothesis testing, EDA
-- **Cloud & Tools:** Google Cloud Platform, AWS, Azure (basic), Git/GitHub, Google Colab/Jupyter Notebook
+**Programming & ML:** Python (Pandas, NumPy, Scikit-learn, TensorFlow/Keras) • SQL  
+**Machine Learning:** Classification, Regression, Clustering, CNNs • Feature Engineering  
+**Data Engineering:** ETL/ELT pipelines • FastAPI • SQLAlchemy • PostgreSQL  
+**Visualization:** Power BI, Looker Studio, Matplotlib, Seaborn, Plotly  
+**Cloud & Tools:** BigQuery, GCP, AWS, Azure • Git/GitHub • Jupyter Notebook
 
-### **Projects Developed** 📂
+---
 
-#### **Individual Project**
-- **Eco-Tourism SQL Analytics & Dashboard**  
-  - A complete end-to-end SQL project delivered for an eco-tourism company.  
-  Answered **9 key business questions** using BigQuery, covering revenue trends, customer behavior, sustainability adoption, repeat rates and operator performance.  
-  *Power BI dashboard in progress.*
+## 🔥 Featured Projects
 
-- **ETL Bitcoin Pipeline + Streamlit Dashboard**
-  - Designed and implemented a complete ETL pipeline that extracts real-time Bitcoin spot prices from the Coinbase API, transforms the data, loads it into a PostgreSQL database and visualizes it with a live Streamlit dashboard featuring automatic refresh and price variation tracking.
- 
-- **Python Basics and K-Means Construction**
-  - Learned foundational Python skills and implemented K-Means clustering algorithm for data segmentation.
- 
-- **BigQuery SQL Portfolio – EPA Greenhouse Gas Emissions**
-  - Analyzed facility-level GHG emissions using public environmental data from the U.S. EPA (2023).
- 
-- **Power BI – User, Purchase & Support Dashboard *(PT-BR)***  
-  Developed as part of a Power BI course, this dashboard integrates Google Sheets data to analyze user registrations, purchase trends, and customer support tickets.  
-  It features star schema modeling, DAX measures, Power Query transformations, and KPIs like NPS and recurring purchases. 
-  > ⚠️ *Dashboard and documentation are in Portuguese.*
+### 🤖 Machine Learning & Deep Learning
 
-- **Power BI – Financial Transactions Dashboard**  
-  Visual analysis of 475K+ transactions across Brazilian states, with interactive income/expense maps, transaction type breakdown (Pix vs. No_Pix), and customer insights.  
+- 🏠 **[House Room Classifier for ProprHome](link)** – CNN models (MobileNetV2, ResNet50, ResNet101) for real estate image classification | **87% accuracy**
+- 🌿 **[Plant Species Recognition](link)** – ResNet50-based classifier for 14 plant species | **95% accuracy**
+- 🛒 **[Customer Purchase Prediction](link)** – Ensemble models with hyperparameter tuning
+- 👥 **[Customer Segmentation (K-Means)](link)** – Clustering analysis based on demographics and spending
+- 📉 **[Employee Attrition Prediction](link)** – Predictive models for retention analysis
 
-#### **Group Projects**
-- **Deep Learning – House Room Classifier**  
-  - Developed deep learning models (CNN, MobileNetV2, ResNet50, ResNet101) to classify room images, achieving 87% accuracy with balanced F1-score.
+### 🔧 Data Engineering & ETL
 
-- **Machine Learning – Employee Attrition Prediction**  
-  - Built predictive models (Logistic Regression, Random Forest) to identify key factors affecting employee retention.
+- ₿ **[Bitcoin Real-Time Pipeline](link)** – ETL pipeline: Coinbase API → PostgreSQL → Streamlit dashboard
+- 🛒 **[Online Auction System](link)** – Relational database with stored procedures and triggers
 
-- **Machine Learning – Customer Purchase Prediction**  
-  - Created predictive models (Random Forest, Gradient Boosting, SVC, Neural Networks) to forecast customer buying behavior from survey data.
+### 📊 Business Intelligence
 
-- **Machine Learning – Customer Segmentation (Clustering)**  
-  - Implemented K-Means clustering to segment customers by demographics, spending patterns, and engagement.
+- 💰 **[Financial Transactions Dashboard](link)** – Power BI analysis of 475K+ transactions
+- 🎬 **[MovieLens Big Data Analysis](link)** – Processing 32M+ movie ratings
+- 🌍 **[Eco-Tourism SQL Analytics](link)** – End-to-end SQL project (BigQuery)
 
-- **Python & Clustering – Airbnb Listings Analysis**  
-  - Performed exploratory data analysis, identifying clusters of Airbnb listings based on pricing and location.
+### 📈 Statistics & Analysis
 
-- **Statistics – Impact of Remote Work on Mental Health**  
-  - Conducted statistical analyses on survey data to evaluate remote work's impact on mental health.
+- 🧠 **[Remote Work & Mental Health Study](link)** – Statistical analysis of survey data
 
-- **SQL – Online Auction System for Inventory Management**  
-  - Developed and optimized database schema, queries, and triggers for managing online auctions efficiently.
+---
 
-- **Big Data Foundations – MovieLens Dataset Analysis**  
-  - Analyzed a large-scale movie ratings dataset (32M+ ratings) using Big Data tools.
+## 📫 Let's Connect!
 
-- **Power BI – MovieLens Dataset Analysis**  
-  - Designed interactive Power BI dashboards to effectively visualize and analyze user preferences and trends.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raysarocha/)
 
-- **NoSQL Challenges (Azure)**  
-  - Managed data using Cosmos DB Table API, MongoDB, and Cassandra.
+---
 
-Feel free to explore my GitHub portfolio and connect if you'd like to collaborate or discuss further!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raysarocha&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+---
+
+## 🛠️ Tech Stack (opcional)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
