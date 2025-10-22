@@ -19,33 +19,34 @@
 ### 🤖 Machine Learning & Deep Learning
 
 - 🏠 **[House Room Classifier for ProprHome](https://github.com/raysarosa/house_room_classifier)** – CNN models (MobileNetV2, ResNet50, ResNet101) for real estate image classification | **87% accuracy**
-- 🌿 **[Plant Species Recognition]([link](https://github.com/raysarosa/plant-recognition))** – ResNet50-based classifier for 14 plant species | **95% accuracy**
-- 🛒 **[Customer Purchase Prediction]([link](https://github.com/raysarosa/questdice-customer-purchase-prediction))** – Ensemble models with hyperparameter tuning
-- 👥 **[Customer Segmentation (K-Means)]([link](https://github.com/raysarosa/Machine-Learning))** – Clustering analysis based on demographics and spending
-- 📉 **[Employee Attrition Prediction]([link](https://www.linkedin.com/in/raysarocha/details/projects/))** – Predictive models for retention analysis
+- 🌿 **[Plant Species Recognition](https://github.com/raysarosa/plant-recognition)** – ResNet50-based classifier for 14 plant species | **95% accuracy**
+- 🛒 **[Customer Purchase Prediction](https://github.com/raysarosa/questdice-customer-purchase-prediction)** – Ensemble models with hyperparameter tuning
+- 👥 **[Customer Segmentation (K-Means)](https://github.com/raysarosa/Machine-Learning)** – Clustering analysis based on demographics and spending
+- 📉 **[Employee Attrition Prediction](https://www.linkedin.com/in/raysarocha/details/projects/)** – Predictive models for retention analysis
 
 ### 🔧 Data Engineering & ETL
 
-- ₿ **[Bitcoin Real-Time Pipeline]([link](https://github.com/raysarosa/etl-bitcoin-pipeline))** – ETL pipeline: Coinbase API → PostgreSQL → Streamlit dashboard
+- ₿ **[Bitcoin Real-Time Pipeline](https://github.com/raysarosa/etl-bitcoin-pipeline)** – ETL pipeline: Coinbase API → PostgreSQL → Streamlit dashboard
 
 
 ### 📊 Business Intelligence
 
-- 💰 **[Financial Transactions Dashboard]([link](https://github.com/raysarosa/financial-transactions-dashboard))** – Power BI analysis of 475K+ transactions
-- 🎬 **[MovieLens Big Data Analysis]([link](https://www.linkedin.com/in/raysarocha/details/projects/))** – Processing 32M+ movie ratings
-- 🌍 **[Eco-Tourism SQL Analytics]([link](https://github.com/raysarosa/eco-trips-analytics))** – End-to-end SQL project (BigQuery)
-- 🛒 **[Online Auction System]([link](https://github.com/raysarosa/SQL-project))** – Relational database with stored procedures and triggers
+- 💰 **[Financial Transactions Dashboard](https://github.com/raysarosa/financial-transactions-dashboard)** – Power BI analysis of 475K+ transactions
+- 🎬 **[MovieLens Big Data Analysis](https://www.linkedin.com/in/raysarocha/details/projects/)** – Processing 32M+ movie ratings
+- 🌍 **[Eco-Tourism SQL Analytics](https://github.com/raysarosa/eco-trips-analytics)** – End-to-end SQL project (BigQuery)
+- 🛒 **[Online Auction System](https://github.com/raysarosa/SQL-project)** – Relational database with stored procedures and triggers
 
 ### 📈 Statistics & Analysis
 
-- 🧠 **[Remote Work & Mental Health Study]([link](https://github.com/raysarosa/Statistic-Poster))** – Statistical analysis of survey data
+- 🧠 **[Remote Work & Mental Health Study](https://github.com/raysarosa/Statistic-Poster)** – Statistical analysis of survey data
 
 ---
 
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raysarocha/)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raysarosa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raysarocha)
 ---
 
 <div align="center">
